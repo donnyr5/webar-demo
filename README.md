@@ -13,20 +13,22 @@ This project allows the display of icons in Augmented Reality (AR) based on sear
 
 ## Installation and Setup
 1. **Clone the Repository**
+```shell
 git clone https://github.com/formation-res/webar-demo.git
+```
 
-markdown
-Copy code
-2. **Navigate to the Project Directory**
-cd webar-demo
 
-markdown
-Copy code
-3. **Run the Development Server**
-npm run dev -- --host
+3. **Navigate to the Project Directory**
+```shell
+$ cd webar-demo
+```
 
-markdown
-Copy code
+
+4. **Run the Development Server**
+```shell
+$ npm run dev -- --host
+```
+
 
 ## Deployment and Testing
 - **Deployment:** The project was deployed using Netlify.
