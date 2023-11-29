@@ -14,7 +14,7 @@ This project allows the display of icons in Augmented Reality (AR) based on sear
 ## Installation and Setup
 1. **Clone the Repository**
 ```shell
-git clone https://github.com/formation-res/webar-demo.git
+$ git clone https://github.com/formation-res/webar-demo.git
 ```
 
 
